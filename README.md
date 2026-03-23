@@ -5,4 +5,4 @@ waveshare 7” ESP32-S3N8R8 Capacitive Touch Display 1024×600
 https://www.waveshare.com/esp32-s3-lcd-7b.htm
 
 
-![Cover1](./Pictures/ReadMe Pictures/Cover1.jpg)
+![Cover1](./Pictures/Example/Cover1.jpg)
