@@ -17,7 +17,7 @@ Reference Display.YAML for my example ESPhome integration and upload all "ESPhom
 
 Build Instruction:
 
-The printable case files and build instruction can be found here. 
+The full 3D model is attached as Display.step and the printable case files and build instruction can be found here. 
 
 ![Cover1](Pictures/Example/Cover1.jpeg)
 
