@@ -131,9 +131,6 @@ touchscreen:
   display: my_display
   i2c_id: bus_a
   interrupt_pin: GPIO4
-  transform: 
-    mirror_x: True #did this for the flipped screen
-    mirror_y: True #did this for the flipped screen
   reset_pin:
     waveshare_io_ch32v003: waveshare_io_hub
     number: 1
