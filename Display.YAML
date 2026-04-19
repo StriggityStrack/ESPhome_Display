@@ -163,7 +163,6 @@ display:
     dimensions:
       width: 1024
       height: 600
-    rotation: 180 #I did this because I needed it flipped
     de_pin:
       number: 5
     hsync_pin:
@@ -424,6 +423,8 @@ color:
 
 lvgl:
   full_refresh: false
+  rotation: 180 #I did this because I needed it flipped
+
   pages:
     - id: brightness_page
       pad_left: 0
