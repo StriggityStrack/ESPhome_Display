@@ -207,6 +207,14 @@ display:
 time:
   - platform: homeassistant
     id: esptime
+    on_time:
+      - seconds: 0
+        minutes: 0
+        hours: 0
+        then:
+          - logger.log: "Nightly reboot"
+          - lambda: |-
+              esp_restart();
 
 sensor:
   - platform: homeassistant
